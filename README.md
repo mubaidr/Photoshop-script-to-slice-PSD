@@ -9,4 +9,4 @@
 
 Just open a PSD and load this script from File>open menu. This script will execute and display following dialogue.
 
-![Dialogue screenshot](/screenshot.png)
+![Dialogue screenshot](screenshot.PNG)
